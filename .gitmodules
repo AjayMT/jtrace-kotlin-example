@@ -1,0 +1,3 @@
+[submodule "jtrace"]
+	path = jtrace
+	url = http://github.com/AjayMT/jtrace.git
